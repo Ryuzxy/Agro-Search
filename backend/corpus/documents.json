@@ -1,0 +1,122 @@
+[
+  {
+    "id_dokumen": "DOC-001",
+    "judul_penyakit": "Bercak Daun Cercospora pada Cabai",
+    "penyebab_patogen": "Cercospora capsici (jamur)",
+    "gejala_visual": "Bercak bulat kecil berwarna coklat keabu-abuan dengan tepi gelap pada daun. Daun menguning dan gugur prematur. Serangan berat menyebabkan defoliasi total.",
+    "rekomendasi_pestisida": "Fungisida berbahan aktif Mankozeb 80 WP (2 g/L), Klorotalonil 75 WP, atau Tembaga Hidroksida. Aplikasi setiap 7-10 hari saat musim hujan.",
+    "langkah_penanganan": "1. Buang dan musnahkan daun yang terinfeksi. 2. Atur jarak tanam minimal 50 cm untuk sirkulasi udara. 3. Hindari penyiraman dari atas (overhead irrigation). 4. Aplikasikan fungisida preventif sejak fase vegetatif. 5. Rotasi tanaman dengan komoditas non-solanaceae selama 2 musim."
+  },
+  {
+    "id_dokumen": "DOC-002",
+    "judul_penyakit": "Antraknosa pada Cabai",
+    "penyebab_patogen": "Colletotrichum acutatum dan Colletotrichum gloeosporioides (jamur)",
+    "gejala_visual": "Bercak cekung berwarna coklat kehitaman pada buah cabai matang. Terdapat masa spora berwarna oranye atau merah muda pada permukaan bercak. Buah menjadi busuk dan kering.",
+    "rekomendasi_pestisida": "Fungisida berbahan aktif Propineb 70 WP, Azoksistrobin 250 SC, atau Difenokonazol 250 EC. Semprotkan secara bergantian untuk mencegah resistensi.",
+    "langkah_penanganan": "1. Gunakan benih yang bersertifikat bebas penyakit. 2. Panen buah segera saat matang, jangan biarkan terlalu lama di pohon. 3. Sanitasi lahan dengan membersihkan sisa tanaman. 4. Aplikasi fungisida mulai fase pembungaan hingga pembuahan. 5. Simpan buah hasil panen di tempat kering dan berventilasi."
+  },
+  {
+    "id_dokumen": "DOC-003",
+    "judul_penyakit": "Penyakit Kuning Keriting (Geminivirus) pada Cabai",
+    "penyebab_patogen": "Pepper yellow leaf curl virus / Begomovirus (virus), ditularkan oleh kutu kebul Bemisia tabaci",
+    "gejala_visual": "Daun menguning, menggulung ke atas (upward curling), dan mengecil. Tanaman kerdil, internodus memendek. Produksi buah menurun drastis hingga gagal panen total.",
+    "rekomendasi_pestisida": "Insektisida untuk vektor: Imidakloprid 200 SL, Tiametoksam 25 WG, atau Abamektin 18 EC. Virus tidak bisa disembuhkan dengan fungisida/bakterisida.",
+    "langkah_penanganan": "1. Cabut dan musnahkan tanaman yang terinfeksi virus sejak dini. 2. Gunakan mulsa plastik perak untuk mengusir kutu kebul. 3. Pasang perangkap kuning berperekat (yellow sticky trap). 4. Tanam tanaman barrier seperti jagung di sekeliling lahan. 5. Gunakan varietas tahan virus jika tersedia. 6. Semprot insektisida untuk mengendalikan populasi kutu kebul."
+  },
+  {
+    "id_dokumen": "DOC-004",
+    "judul_penyakit": "Layu Fusarium pada Cabai",
+    "penyebab_patogen": "Fusarium oxysporum f.sp. capsici (jamur tular tanah)",
+    "gejala_visual": "Tanaman layu mendadak meskipun tanah lembab. Daun bagian bawah menguning lebih dulu kemudian menjalar ke atas. Jika batang dibelah, terlihat pembuluh jaringan berwarna coklat.",
+    "rekomendasi_pestisida": "Fungisida hayati Trichoderma harzianum (10 g/tanaman dicampur pupuk kandang). Fungisida kimia Benomil 50 WP sebagai pencegahan pada lubang tanam.",
+    "langkah_penanganan": "1. Sterilisasi tanah dengan solarisasi atau pemberian kapur dolomit (2 ton/ha). 2. Perbaiki drainase lahan untuk mencegah genangan air. 3. Aplikasikan Trichoderma harzianum pada lubang tanam sebelum pindah tanam. 4. Rotasi tanaman dengan padi atau jagung minimal 2 musim. 5. Gunakan bibit sehat dari persemaian yang terjamin."
+  },
+  {
+    "id_dokumen": "DOC-005",
+    "judul_penyakit": "Layu Bakteri pada Cabai",
+    "penyebab_patogen": "Ralstonia solanacearum (bakteri tular tanah)",
+    "gejala_visual": "Tanaman layu tiba-tiba tanpa menguning terlebih dahulu. Jika batang dipotong dan direndam air, terlihat cairan bakteri putih susu mengalir keluar (ooze test positif).",
+    "rekomendasi_pestisida": "Bakterisida berbahan aktif Streptomisin sulfat 20 WP atau Tembaga Hidroksida 77 WP. Agen hayati Bacillus subtilis sebagai pencegahan.",
+    "langkah_penanganan": "1. Cabut tanaman yang layu beserta perakarannya dan musnahkan. 2. Jangan mengolah tanah saat basah untuk menghindari penyebaran. 3. Aplikasikan kapur pertanian untuk menaikkan pH tanah di atas 6.5. 4. Gunakan pupuk organik matang untuk meningkatkan mikroba antagonis. 5. Hindari luka pada akar saat pengolahan tanah. 6. Rotasi dengan tanaman non-solanaceae minimal 3 tahun."
+  },
+  {
+    "id_dokumen": "DOC-006",
+    "judul_penyakit": "Busuk Daun (Late Blight) pada Kentang",
+    "penyebab_patogen": "Phytophthora infestans (oomycetes/jamur semu)",
+    "gejala_visual": "Bercak basah berwarna hijau gelap hingga coklat pada daun, terutama di ujung dan tepi daun. Pada kelembaban tinggi terlihat miselium putih di bagian bawah daun. Serangan berlanjut ke batang dan umbi.",
+    "rekomendasi_pestisida": "Fungisida sistemik Metalaksil 25 WP + Mankozeb 45 WP, Dimetomorf 50 WP, atau Simoksanil 8 WP + Mankozeb 64 WP. Rotasi bahan aktif wajib.",
+    "langkah_penanganan": "1. Gunakan umbi bibit bersertifikat bebas penyakit. 2. Tanam di musim kering jika memungkinkan. 3. Semprot fungisida preventif sebelum gejala muncul (7 hari setelah tanam). 4. Tingkatkan guludan untuk melindungi umbi dari spora. 5. Panen segera jika serangan sudah meluas. 6. Jangan simpan umbi yang terinfeksi bersama umbi sehat."
+  },
+  {
+    "id_dokumen": "DOC-007",
+    "judul_penyakit": "Layu Fusarium pada Kentang",
+    "penyebab_patogen": "Fusarium oxysporum (jamur tular tanah)",
+    "gejala_visual": "Daun bagian bawah menguning dan layu secara unilateral (satu sisi). Pembuluh batang berubah warna menjadi coklat. Umbi menunjukkan perubahan warna coklat pada ring vaskular.",
+    "rekomendasi_pestisida": "Trichoderma harzianum sebagai agen biokontrol (15 g/lubang tanam). Fludioxonil 25 SC untuk perlakuan benih (seed treatment).",
+    "langkah_penanganan": "1. Sortir umbi bibit secara ketat, buang yang menunjukkan gejala. 2. Rendam umbi bibit dalam larutan fungisida sebelum tanam. 3. Aplikasikan Trichoderma pada tanah sebelum tanam. 4. Jaga pH tanah optimal 6.0-6.5. 5. Rotasi tanaman minimal 3-4 tahun dengan non-solanaceae."
+  },
+  {
+    "id_dokumen": "DOC-008",
+    "judul_penyakit": "Bercak Daun Alternaria (Early Blight) pada Kentang",
+    "penyebab_patogen": "Alternaria solani (jamur)",
+    "gejala_visual": "Bercak coklat gelap berbentuk konsentris (target board) pada daun tua bagian bawah. Bercak dikelilingi halo kuning. Serangan berat menyebabkan daun mengering dan rontok.",
+    "rekomendasi_pestisida": "Mankozeb 80 WP (2.5 g/L), Klorotalonil 75 WP, atau Azoksistrobin 250 SC. Aplikasi dimulai saat tanaman berumur 30 hari.",
+    "langkah_penanganan": "1. Buang daun-daun tua yang terinfeksi di bagian bawah tanaman. 2. Berikan pupuk kalium yang cukup untuk meningkatkan ketahanan. 3. Jaga kelembaban lahan tidak berlebihan. 4. Semprot fungisida secara terjadwal setiap 7-10 hari. 5. Hindari irigasi pada sore hari agar daun tidak basah semalaman."
+  },
+  {
+    "id_dokumen": "DOC-009",
+    "judul_penyakit": "Busuk Daun (Late Blight) pada Tomat",
+    "penyebab_patogen": "Phytophthora infestans (oomycetes/jamur semu)",
+    "gejala_visual": "Bercak besar berair berwarna hijau keabu-abuan pada daun, berbau busuk. Buah tomat menunjukkan bercak coklat keras yang meluas. Pada kelembaban tinggi muncul spora putih.",
+    "rekomendasi_pestisida": "Metalaksil-M 4% + Mankozeb 64 WP, Mandipropamid 250 SC, atau Propamokarb HCl 722 SL. Rotasi bahan aktif setiap 2 kali semprot.",
+    "langkah_penanganan": "1. Gunakan bibit tomat varietas tahan (jika tersedia). 2. Pasang atap plastik (rain shelter) untuk mengurangi kelembaban. 3. Semprot fungisida preventif sejak tanaman berumur 2 minggu setelah tanam. 4. Jaga jarak tanam 60×50 cm untuk sirkulasi udara. 5. Pangkas tunas air (sucker) secara rutin. 6. Musnahkan sisa tanaman setelah panen."
+  },
+  {
+    "id_dokumen": "DOC-010",
+    "judul_penyakit": "Bercak Daun Septoria pada Tomat",
+    "penyebab_patogen": "Septoria lycopersici (jamur)",
+    "gejala_visual": "Bercak kecil bulat berwarna abu-abu dengan tepi gelap pada daun tua bagian bawah. Di tengah bercak terdapat titik-titik hitam kecil (piknidium). Daun menguning dan rontok dari bawah ke atas.",
+    "rekomendasi_pestisida": "Mankozeb 80 WP, Klorotalonil 75 WP, atau kombinasi Azoksistrobin + Difenokonazol. Semprot setiap 7 hari saat cuaca lembab.",
+    "langkah_penanganan": "1. Pangkas dan buang daun yang terinfeksi di bagian bawah tanaman. 2. Gunakan mulsa untuk mencegah percikan tanah ke daun. 3. Siram tanaman di bagian pangkal, hindari membasahi daun. 4. Berikan jarak tanam yang cukup dan lakukan pemangkasan rutin. 5. Terapkan rotasi tanaman minimal 2 tahun."
+  },
+  {
+    "id_dokumen": "DOC-011",
+    "judul_penyakit": "Layu Bakteri pada Tomat",
+    "penyebab_patogen": "Ralstonia solanacearum (bakteri tular tanah)",
+    "gejala_visual": "Tanaman tomat layu mendadak dimulai dari pucuk, terutama pada siang hari panas, awalnya pulih di malam hari namun kemudian layu permanen. Ooze test positif menunjukkan aliran bakteri dari potongan batang.",
+    "rekomendasi_pestisida": "Tidak ada pestisida kimia yang efektif secara kuratif. Pencegahan dengan Bacillus subtilis, Pseudomonas fluorescens, atau Tembaga Hidroksida 77 WP.",
+    "langkah_penanganan": "1. Cabut dan bakar tanaman yang terinfeksi beserta tanah di sekitar perakaran. 2. Desinfeksi peralatan pertanian setelah digunakan di area terinfeksi. 3. Perbaiki drainase dan hindari genangan. 4. Naikkan pH tanah dengan pengapuran (target pH 7.0). 5. Gunakan rootstock yang tahan untuk grafting. 6. Tanam tagetes (marigold) sebagai tanaman perangkap nematoda dan bakteri."
+  },
+  {
+    "id_dokumen": "DOC-012",
+    "judul_penyakit": "Virus Mosaik pada Tomat",
+    "penyebab_patogen": "Tobacco Mosaic Virus (TMV) atau Tomato Mosaic Virus (ToMV)",
+    "gejala_visual": "Daun menunjukkan pola belang hijau muda dan hijau tua (mosaik). Daun muda menggulung dan berkerut. Buah berukuran kecil dengan pematangan tidak merata (blotchy ripening). Pertumbuhan tanaman terhambat.",
+    "rekomendasi_pestisida": "Tidak ada obat untuk virus. Pencegahan vektor dengan Imidakloprid 200 SL untuk mengendalikan kutu daun (aphid) sebagai vektor mekanis.",
+    "langkah_penanganan": "1. Gunakan benih bersertifikat bebas virus. 2. Cuci tangan dengan sabun atau susu skim 10% sebelum menangani tanaman. 3. Desinfeksi alat potong dengan larutan Trisodium fosfat 10%. 4. Cabut tanaman terinfeksi segera. 5. Hindari merokok di area pertanaman (TMV ada di tembakau). 6. Gunakan varietas yang membawa gen resistensi Tm-2."
+  },
+  {
+    "id_dokumen": "DOC-013",
+    "judul_penyakit": "Busuk Buah Phytophthora pada Cabai",
+    "penyebab_patogen": "Phytophthora capsici (oomycetes/jamur semu)",
+    "gejala_visual": "Buah cabai menunjukkan bercak basah berwarna hijau gelap yang cepat meluas. Buah menjadi lunak, berair, dan busuk. Pada kondisi lembab, terlihat miselium putih menutupi permukaan buah.",
+    "rekomendasi_pestisida": "Metalaksil 25 WP + Mankozeb, Dimetomorf 50 WP, atau Fosetil-Al 80 WP. Semprot saat fase pembungaan dan pembuahan.",
+    "langkah_penanganan": "1. Perbaiki drainase lahan dan buat guludan tinggi (30-40 cm). 2. Gunakan mulsa plastik hitam perak. 3. Hindari penyiraman berlebihan, terutama saat sore hari. 4. Panen buah yang sudah matang tepat waktu. 5. Aplikasi fungisida preventif sebelum musim hujan. 6. Rotasi dengan tanaman non-solanaceae."
+  },
+  {
+    "id_dokumen": "DOC-014",
+    "judul_penyakit": "Penyakit Busuk Pangkal Batang pada Cabai",
+    "penyebab_patogen": "Phytophthora capsici atau Sclerotium rolfsii (jamur tular tanah)",
+    "gejala_visual": "Pangkal batang berwarna coklat kehitaman dan basah, tanaman rebah. Pada Sclerotium, terlihat butiran bulat kecil berwarna coklat (sklerotia) dan benang-benang jamur putih di permukaan tanah sekitar pangkal batang.",
+    "rekomendasi_pestisida": "Metalaksil 25 WP untuk Phytophthora, Validamisin 3 SL untuk Sclerotium. Trichoderma harzianum sebagai agen hayati (20 g/tanaman).",
+    "langkah_penanganan": "1. Buat bedengan tinggi (40 cm) dengan drainase baik. 2. Jangan menanam terlalu dalam. 3. Berikan Trichoderma harzianum pada media tanam. 4. Lakukan solarisasi tanah sebelum musim tanam baru. 5. Cabut tanaman yang terserang beserta tanah sekitarnya. 6. Aplikasikan kapur dolomit 1-2 ton/ha."
+  },
+  {
+    "id_dokumen": "DOC-015",
+    "judul_penyakit": "Leaf Mold pada Tomat",
+    "penyebab_patogen": "Passalora fulva (syn. Fulvia fulva, Cladosporium fulvum) (jamur)",
+    "gejala_visual": "Bercak kuning pucat pada permukaan atas daun. Pada bagian bawah daun terdapat lapisan beludru berwarna hijau zaitun hingga coklat (masa konidium). Daun mengering dan gugur. Umum di rumah kaca dengan kelembaban tinggi.",
+    "rekomendasi_pestisida": "Klorotalonil 75 WP, Mankozeb 80 WP, atau Azoksistrobin 250 SC. Kurangi kelembaban sebagai langkah utama.",
+    "langkah_penanganan": "1. Tingkatkan ventilasi rumah kaca atau lahan. 2. Kurangi kepadatan tanaman. 3. Hindari pembasahan daun saat penyiraman. 4. Pangkas daun bawah yang terinfeksi. 5. Gunakan varietas tomat yang memiliki gen ketahanan Cf. 6. Semprot fungisida saat kelembaban di atas 85%."
+  }
+]
